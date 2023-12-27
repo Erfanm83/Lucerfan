@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://Erfanm83.github.io/Lucerfan",
+    "build-gh": "parcel build --public-url 'http://Erfanm83.github.io/Lucerfan'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
